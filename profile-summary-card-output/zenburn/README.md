@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nandanarifqii/nandanarifqii/master/profile-summary-card-output/zenburn/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/nandanarifqii/nandanarifqii/master/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
