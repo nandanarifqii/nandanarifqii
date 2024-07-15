@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandana Rifqi Irfansyah</h1>
-<h3 align="center">Last Year Student from Information System, Brawijaya University</h3>
+<h3 align="center">Last Year Student Information System, Faculty of Computer Science, Brawijaya University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanarifqii&label=Profile%20views&color=0e75b6&style=flat" alt="nandanarifqii" /> </p>
 
