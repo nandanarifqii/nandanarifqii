@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/nandanarifqii/nandanarifqii/master/profile-summary-card-output/kacho_ga/4-productive-time.svg)
+```
+
+    
